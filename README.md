@@ -1,2 +1,2 @@
 # Quint
-Simple Online Editor for Front End Web Developer written in python
+Simple Online Editor for Front End Web Developers written in python
